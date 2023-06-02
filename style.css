@@ -6,7 +6,7 @@ body{
     background-image:url('./sky.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    width: 97%;
+    width: 97.5%;
     height:auto;
     border: groove 15px green;
 }
